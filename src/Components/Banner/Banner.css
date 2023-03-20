@@ -1,0 +1,19 @@
+img {
+    margin: 4rem 0 1rem 0;
+    width: 12rem;
+    border-radius: 50%;
+    border: 3px solid #4D392B;
+    box-shadow: 0 0 .5rem #4D392B, 0 0 .5rem currentColor;
+}
+
+h3 {
+    color: #2c231c;
+}
+
+.navegacao {
+    gap: 30px;
+    margin-top: .5rem;
+    margin-bottom: -2rem;
+    font-size: 18px;
+
+}

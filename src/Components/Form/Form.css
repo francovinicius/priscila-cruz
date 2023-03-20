@@ -1,0 +1,33 @@
+.display-none {
+    display: none;
+}
+
+.txt-entrada {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5rem auto;
+    width: 90%;
+    text-shadow: 0 0 .4rem #ad907b, 0 0 .4rem currentColor;
+}
+
+.alinhar-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: .4rem;
+
+    width: 80%;
+    margin: 0 auto;
+}
+
+.btnn {
+    border: 1px solid #4D392B;
+    box-shadow: 0 0 .5rem #4D392B, 0 0 .5rem currentColor;
+    background: #4D392B;
+    color: #fff;
+    margin-bottom: 10rem;
+    margin-top: .2rem;
+}
