@@ -1,6 +1,8 @@
 .fixar-rodape{
+    position: fixed;
+    bottom: 0;
     margin-top: 5rem;
     border-top: 1px solid #5f61647a;
     width: 100%;
-    padding: 1.5rem 0;
+    padding: 1rem 0;
 }
