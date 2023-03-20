@@ -1,4 +1,6 @@
 .fixar-rodape{
+    position: relative;
+    margin-top: 4rem;
     border-top: 1px solid #5f61647a;
     bottom: 0;
     width: 100%;
