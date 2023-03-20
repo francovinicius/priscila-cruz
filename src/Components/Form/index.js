@@ -5,7 +5,7 @@ export default function Form() {
         <section id='form'>
 
             <div className='txt-entrada'>
-                <h3>Contate-me aqui</h3>
+                <h3 className='text-center'>Entre em contato com a minha equipe por aqui</h3>
             </div>
 
             <form action="https://formsubmit.co/seuemail@email.com" method="POST">

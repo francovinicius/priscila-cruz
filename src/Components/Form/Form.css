@@ -7,9 +7,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 5rem auto;
+    margin: 3rem auto;
     width: 90%;
-    text-shadow: 0 0 .4rem #ad907b, 0 0 .4rem currentColor;
+
 }
 
 .alinhar-div {
