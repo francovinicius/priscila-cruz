@@ -1,7 +1,10 @@
+import { BrowserRouter } from "react-router-dom";
 
-const pagina = window.location.pathname === '/' ? <div>Olá mundo</div> : <div>Sobre</div>
 function App() {
-  return pagina;
+  return (
+    <BrowserRouter>
+    </BrowserRouter>
+  );
 }
 
 export default App;
