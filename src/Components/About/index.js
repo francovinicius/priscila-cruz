@@ -13,7 +13,6 @@ export default function About() {
                     Sua liderança espiritual, combinada com sua habilidade musical, permite que ela transmita sua mensagem de uma maneira única e inspiradora. Como mãe, Priscila enfrenta desafios diários, mas sua fé e confiança em Deus a ajudam a equilibrar suas responsabilidades familiares e ministeriais com graça e sabedoria.
                 </p>
             </div>
-
         </section>
     )
 }
