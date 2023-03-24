@@ -10,7 +10,7 @@ export default function Banner() {
                     <a className="nav-link" href="/contato">Contato</a>
                 </div>
 
-                <img className="img-fluid" src="./assets/img/priscila-1.svg" alt="Priscila" />
+                <img className="img-fluid" src="./assets/img/priscila-2.svg" alt="Priscila" />
                 <h3>@priscilacruz_</h3>
 
 
