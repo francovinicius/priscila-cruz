@@ -14,10 +14,9 @@ export default function Form() {
                     <input type="text" name="name" aria-label="First name" className=" form-control bg-light p-2 bg-opacity-10" required placeholder='Digite seu nome' />
                     <input type="email" name="email" aria-label="E-mail" className="bg-light p-2 bg-opacity-10 form-control" required placeholder='Digite seu e-mail' />
                     <input type="tel" name="tel" aria-label="tel" className=" form-control bg-light p-2 bg-opacity-10" required placeholder='Digite seu telefone com DDD' />
-                    <input type="text" name="text" aria-label="text" className=" form-control bg-light p-2 bg-opacity-10" required placeholder='Nome da Igreja ou organização' />
-                    <input type="text" name="text" aria-label="text" className=" form-control bg-light p-2 bg-opacity-10" required placeholder='Nome do evento' />
-                    <input type="text" name="text" aria-label="text" className=" form-control bg-light p-2 bg-opacity-10" required placeholder='Local do evento' />
-                    <input type="text" name="name" className=" form-control bg-light p-2 bg-opacity-10" required placeholder='Assunto (Motivo do contato)' />
+                    <input type="igreja-organizacao" name="text" aria-label="text" className=" form-control bg-light p-2 bg-opacity-10" required placeholder='Nome da Igreja ou organização' />
+                    <input type="nome-do-evento" name="text" aria-label="text" className=" form-control bg-light p-2 bg-opacity-10" required placeholder='Nome do evento' />
+                    <input type="local-evento" name="text" aria-label="text" className=" form-control bg-light p-2 bg-opacity-10" required placeholder='Local do evento' />
                     <textarea className="form-control bg-light p-2 bg-opacity-10" name="menssage" id="exampleFormControlTextarea1" rows="3" required placeholder='Digite a mensagem desejada'></textarea>
 
                     <button type="button d-flex justify-content-center submit" className="btn btnn" target="blank">Enviar</button>
