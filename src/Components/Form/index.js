@@ -8,7 +8,7 @@ export default function Form() {
                 <h3 className='text-center'>Entre em contato com a minha equipe por aqui</h3>
             </div>
 
-            <form action="https://formsubmit.co/seuemail@email.com" method="POST">
+            <form action="https://formsubmit.co/assessoriapriscilacruz@gmail.com" method="POST">
                 <div className='alinhar-div'>
 
                     <input type="text" name="name" aria-label="First name" className=" form-control bg-light p-2 bg-opacity-10" required placeholder='Digite seu nome' />
@@ -22,7 +22,7 @@ export default function Form() {
                     <input type="hidden" name="_subject" value="Novo Contato!" />
                     <input type="text" name="_honey" className='display-none' />
                     <input type="hidden" name="_captcha" value="false" />
-                    <input type="hidden" name="_next" value="https://envio-email-por-form.vercel.app/" target="blank" />
+                    <input type="hidden" name="_next" value="https://priscila-cruz.vercel.app/" target="blank" />
                 </div>
 
 
