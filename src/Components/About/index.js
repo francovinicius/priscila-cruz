@@ -4,7 +4,13 @@ export default function About() {
     return (
         <section>
 
+            <div className='d-flex flex-column justify-content-center align-items-center'>
+                <h6>Veja o meu mais novo lançamento!</h6>
+                <iframe width="350" height="200" src="https://www.youtube.com/embed/EHYyfNOhers" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+
             <div className='d-flex flex-column justify-content-center align-items-center' id='about'>
+                <h1>Sobre Mim</h1>
                 <p className='p-apresentacao text-centergit '>
                     Priscila é uma cantora, compositora e pastora com mais de 15 anos de experiência em liderança de adoração. Ela tem formação no Seminário Médio Teológico e, junto com seu esposo Franklin Cruz, lidera a Local 7 Church em Volta Redonda - RJ. Além de suas responsabilidades ministeriais, ela também é mãe do Davi e da Mel.
                     <br />
