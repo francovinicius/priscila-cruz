@@ -2,6 +2,19 @@
 
 Este projeto visa a criação de um cartão de visitas com os principais links e formulário para contato
 
+### Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- ReactJS
+
+## Funcionalidades
+- Apresentação das informações do usuário, como nome, cargo, e-mail e telefone
+- Links para as redes sociais do usuário, como LinkedIn, Twitter e GitHub
+- Formulário de contato com campos para nome, e-mail, telefone e mensagem
+- Botão de envio do formulário, que deve validar os campos e enviar as informações por e-mail para o usuário
+
 ## Introdução ao Create React App
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
