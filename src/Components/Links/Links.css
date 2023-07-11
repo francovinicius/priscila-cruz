@@ -1,17 +1,24 @@
 .section-link {
 
-    margin-top: 4rem;
+    margin-top: 6rem;
     margin-bottom: 7rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 
 .div-link {
+    
     width: 80%;
     padding: 1rem 1rem;
-    background: #31241b;
-    color: #faf4ef;
-    text-shadow: 0 0 .4rem #ad907b, 0 0 .4rem currentColor;
+    background: #f5ccae;
+    color: #887261;
     border-radius: 0.9375rem;
-    box-shadow: 0 0 .5rem #4D392B, 0 0 .5rem currentColor;
+
 
     margin: -.5rem 0 1.2rem 0;
+}
+
+.a-link {
+    opacity: .8;
+
 }

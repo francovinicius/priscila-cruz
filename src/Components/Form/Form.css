@@ -12,6 +12,13 @@
 
 }
 
+.txt-form {
+    margin-top: 3rem;
+    font-size: 20px;
+    opacity: 1;
+    color: #7c7272;
+}
+
 .alinhar-div {
     display: flex;
     flex-direction: column;
@@ -21,13 +28,24 @@
 
     width: 80%;
     margin: 0 auto;
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
 }
 
 .btnn {
-    border: 1px solid #4D392B;
-    box-shadow: 0 0 .5rem #4D392B, 0 0 .5rem currentColor;
-    background: #4D392B;
+    background: #7c7272;
     color: #fff;
     margin-bottom: 10rem;
     margin-top: .2rem;
+}
+
+.txt-font-input {
+    background: transparent;
+    color: #7c7272;
+    border: 1px solid #7c7272;
+}
+
+.txt-font-input::placeholder {
+    color: #7c7272;
 }

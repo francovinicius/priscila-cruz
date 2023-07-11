@@ -1,8 +1,12 @@
 .fixar-rodape{
     margin-top: 5rem;
-    border-top: 1px solid #5f61647a;
+    border-top: 1px solid #5f61641f;
     width: 100%;
     padding: 1rem 0;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    opacity: .6;
 }
 
 @media screen and (min-width:600px) {
