@@ -4,6 +4,7 @@
     margin-bottom: 7rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
+    animation: fadeIntext 3s both;
 }
 
 .div-link {
