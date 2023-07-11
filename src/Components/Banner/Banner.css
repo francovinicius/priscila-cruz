@@ -1,13 +1,25 @@
 img {
-    margin: 4rem 0 1rem 0;
-    width: 12rem;
-    border-radius: 50%;
-    border: 3px solid #4D392B;
-    box-shadow: 0 0 .5rem #4D392B, 0 0 .5rem currentColor;
+z-index: 0;
+margin-top: -1rem;
+border-end-end-radius: 10rem;
+border-end-start-radius: 10rem;
+border-start-end-radius: 13rem;
+
+
+}
+
+.nav-link {
+    z-index: 1;
+    color: #fff;
+    opacity: .6;
 }
 
 h3 {
-    color: #2c231c;
+    color: #ffffff;
+    font-size: 2.5rem;
+    margin-top: -7rem;
+    opacity: .6;
+    z-index: 1;
 }
 
 .navegacao {
