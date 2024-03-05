@@ -1,0 +1,95 @@
+.highlight-div-principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    animation: fadeIntext 9s;
+
+    margin-bottom: 10rem;
+
+}
+
+.highlight-div-principal h2 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1rem;
+
+
+}
+
+.highlight-div-projects {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.highlight-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.card {
+    padding: .7rem;
+    background-color: #E8E8E8;
+}
+
+.highlight-text {
+    width: 300px;
+}
+
+.highlight-text h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    margin-bottom: .5rem;
+}
+.highlight-img img {
+    width: 300px;
+}
+
+.btn-highlight {
+    background-color: #999999;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+  }
+
+  @media screen and (min-width:768px) {
+
+    .highlight-text {
+        width: 350px;
+    }
+  
+  }
+
+  @media screen and (min-width:1400px) {
+
+    .highlight-div-projects {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .card {
+        height: 350px;
+    }
+  
+  }
+
+  

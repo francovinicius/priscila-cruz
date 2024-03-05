@@ -1,0 +1,51 @@
+[
+    {
+        "title":"E-Pesonal App",
+        "text":"O E-personal App é um aplicativo projetado para gerar treinos aleatórios (recebidos através de IA) separado por grupamentos musculares. Foi criado para ajudar pessoas que não tem tempo para ir a academia ou não tem dinheiro para pagar um personal trainer. O aplicativo foi desenvolvido Kotlin e tem como objetivo ser um aplicativo de fácil utilização e com uma interface amigável.",
+        "img":"./assets/img/projects/e_personal.png",
+        "alt":"E-Personal App",
+        "language": "Kotlin",
+        "link":"https://github.com/francovinicius/E-PersonalApp"
+    },
+    {
+        "title":"Link Personalizado",
+        "text":"O Link Personalizado é um projeto que tem como objetivo criar um link personalizado para o usuário, feito para visualizações em dispositivos mobiles. Possibilita o usuário compartilhar seus principais links, meios de comunicações, redes, entre outras opções. O projeto foi desenvolvido em Node.js e React.",
+        "img":"./assets/img/projects/priscila-cruz.png",
+        "alt":"Link Personalizado",
+        "language": "Reactjs",
+        "link":"https://github.com/francovinicius/priscila-cruz"
+    },
+    {
+        "title":"Intranet Sarton",
+        "text":"Projeto criado para empresa Sarton Monitorament com auxilio dos frameworks React e Bootstrap, tem por finalidade a criação de uma intranet para a informação dos seus funcionarios.",
+        "img":"./assets/img/projects/intranet-sarton.png",
+        "alt":"Link Personalizado",
+        "language": "Reactjs",
+        "link":"https://github.com/francovinicius/intranet-sarton"
+    },
+    {
+        "title":"Lading Page",
+        "text":"Projeto criado com auxilio do framework Bootstrap, tem por finalidade a apresentação de uma Lading Page para uma empresa de Design.",
+        "img":"./assets/img/projects/lading-page.png",
+        "alt":"Link Personalizado",
+        "language": "HTML, CSS, Javascript",
+        "link":"https://github.com/francovinicius/Lading-page"
+    },
+    {
+        "title":"Spotify Clone",
+        "text":"O Spotify Clone é um projeto que tem como objetivo criar um clone do aplicativo do Spotify. O projeto foi desenvolvido em Flutter e tem como objetivo ser um aplicativo de fácil utilização e com uma interface amigável.",
+        "img":"./assets/img/projects/spotify-clone.png",
+        "alt":"Spotify Clone",
+        "language": "Reactjs",
+        "link":"https://github.com/francovinicius/Spotify-Clone"
+    },
+    {
+        "title":"Nu Clone",
+        "text":"O Nu Clone é um projeto que tem como objetivo criar um clone do aplicativo do Nubank. O projeto foi desenvolvido em Kotlin e tem como objetivo ser um aplicativo de fácil utilização e com uma interface amigável.",
+        "img":"./assets/img/projects/nu-clone.png",
+        "alt":"Nu Clone",
+        "language": "Reactjs",
+        "link":"https://github.com/francovinicius/NuCloneApp"
+    }
+
+]
